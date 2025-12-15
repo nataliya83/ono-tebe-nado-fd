@@ -219,7 +219,7 @@
     align-items: start;
     justify-items: center;
 }
-.footer__address{
+.footer__address {
     max-width: 265px;
     text-underline-offset: 4px;
 }
