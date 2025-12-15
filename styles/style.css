@@ -161,8 +161,8 @@
 .lots__look-more-link {
     font-size: 20px;
     display: block;
-    margin-left: 40px;
     margin-top: 28px;
+    margin-left: 40px;
     text-underline-offset: 4px;
 }
 .about {
@@ -203,13 +203,13 @@
     text-transform: uppercase;
 }
 .about__text {
+    max-width: 693px;
     display: flex;
     flex-direction: column;
     gap: 1.5em;
     align-content: flex-end;
     font-size: 20px;
     line-height: 24px;
-    max-width: 693px;
 }
 .footer {
     height: 180px;
