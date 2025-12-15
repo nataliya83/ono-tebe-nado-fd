@@ -129,14 +129,14 @@
 .card {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     height: 100%;
     position: relative;
     background-position: center;
     background-size: cover;
     color: white;
     padding: 48px 40px;
-    justify-content: space-between;
-    line-height: 135%; 
+    line-height: 135%;
 }
 .card_type_film {
     background-image: url(/images/card-lot-01.jpg);
